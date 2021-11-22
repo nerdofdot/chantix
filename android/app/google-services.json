@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "754748970254",
+    "firebase_url": "https://chantix-4a489.firebaseio.com",
+    "project_id": "chantix-4a489",
+    "storage_bucket": "chantix-4a489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754748970254:android:f07a57f008eb82ff59735f",
+        "android_client_info": {
+          "package_name": "com.dotdevelopingteam.chantix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754748970254-4et2lt7tg2s8727gsrn532gok8rnkna4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchvVL7Fxihg_O-V4hFVTzbwnjHafr2YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754748970254-4et2lt7tg2s8727gsrn532gok8rnkna4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754748970254:android:95791569f8646bbd59735f",
+        "android_client_info": {
+          "package_name": "com.example.quitsmoking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754748970254-oumgm7nef5fv2p7blobglf59a270j0gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quitsmoking",
+            "certificate_hash": "8d3ec2e92a433d4c61fa7a5ae3764c4fbbca9a37"
+          }
+        },
+        {
+          "client_id": "754748970254-4et2lt7tg2s8727gsrn532gok8rnkna4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchvVL7Fxihg_O-V4hFVTzbwnjHafr2YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754748970254-4et2lt7tg2s8727gsrn532gok8rnkna4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
